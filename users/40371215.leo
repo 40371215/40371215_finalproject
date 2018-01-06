@@ -49,55 +49,117 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
+<v t="yen.20170108171733.16"><vh>W1-W3</vh>
 <v t="yen.20170108171733.17"><vh>導入週</vh></v>
 </v>
-<v t="leo.20170911090822.1" a="E"><vh>W4-W6</vh>
+<v t="leo.20170911090822.1"><vh>W4-W6</vh>
 <v t="leo.20170911090822.2"><vh>練習週</vh></v>
 </v>
-<v t="leo.20170911091459.1" a="E"><vh>W7-9</vh>
-<v t="leo.20170911091508.1" a="E"><vh>期中</vh>
+<v t="leo.20170911091459.1"><vh>W7-9</vh>
+<v t="leo.20170911091508.1"><vh>期中</vh>
 <v t="leo.20170911091508.2"><vh>線上考試</vh></v>
 </v>
-<v t="leo.20170911091622.1" a="E"><vh>影片一</vh>
+<v t="leo.20170911091622.1"><vh>影片一</vh>
 <v t="leo.20170911091622.2"><vh>網誌</vh></v>
 </v>
-<v t="leo.20170911100148.1" a="E"><vh>影片二</vh>
+<v t="leo.20170911100148.1"><vh>影片二</vh>
 <v t="leo.20170911100148.2"><vh>繪圖</vh></v>
 </v>
-<v t="leo.20170911100657.1" a="E"><vh>影片三</vh>
+<v t="leo.20170911100657.1"><vh>影片三</vh>
 <v t="leo.20170911100657.2"><vh>組合</vh></v>
 </v>
 </v>
-<v t="leo.20170911093601.1" a="E"><vh>成果</vh>
-<v t="leo.20170911093601.2" a="E"><vh>總結</vh>
+<v t="leo.20170911093601.1"><vh>成果</vh>
+<v t="leo.20170911093601.2"><vh>總結</vh>
 <v t="leo.20170911093601.3"><vh>佐證</vh></v>
 </v>
-<v t="leo.20170911093601.4" a="E"><vh>Youtube</vh>
+<v t="leo.20170911093601.4"><vh>Youtube</vh>
 <v t="leo.20170911093601.5"><vh>圖片&amp;連結</vh></v>
 </v>
-<v t="leo.20170913103008.1" a="E"><vh>Vimeo</vh>
+<v t="leo.20170913103008.1"><vh>Vimeo</vh>
 <v t="leo.20170913103008.2"><vh>圖片&amp;連結</vh></v>
 </v>
-<v t="leo.20170913103534.1" a="E"><vh>Onshape</vh>
+<v t="leo.20170913103534.1"><vh>Onshape</vh>
 <v t="leo.20170913103534.2"><vh>圖片&amp;連結</vh></v>
 </v>
-<v t="leo.20170913103707.1" a="E"><vh>網誌</vh>
+<v t="leo.20170913103707.1"><vh>網誌</vh>
 <v t="leo.20170913103707.2"><vh>圖片&amp;連結</vh></v>
 </v>
 <v t="leo.20170913104957.1" a="E"><vh>筆記</vh>
 <v t="leo.20170913104957.2"><vh>圖片&amp;連結</vh></v>
 </v>
 </v>
-<v t="leo.20170911095149.1" a="E"><vh>課程評分</vh>
-<v t="leo.20170911095149.2" a="E"><vh>課程評分</vh>
+<v t="leo.20170911095149.1"><vh>課程評分</vh>
+<v t="leo.20170911095149.2"><vh>課程評分</vh>
 <v t="leo.20170911095149.3"><vh>如何評分</vh></v>
 </v>
-<v t="leo.20170911095149.4" a="E"><vh>自我評分</vh>
+<v t="leo.20170911095149.4"><vh>自我評分</vh>
 <v t="leo.20170911095149.5"><vh>評分</vh></v>
+</v>
+</v>
+<v t="leo.20180106101637.1"><vh>W10-W12</vh>
+<v t="leo.20180106102410.1"><vh>檢討週</vh>
+<v t="leo.20180106104643.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180106103833.1"><vh>Nutcracker影片</vh>
+<v t="leo.20180106104255.1"><vh>模擬</vh></v>
+</v>
+<v t="leo.20180106103833.2"><vh>Onshape 教學1</vh>
+<v t="leo.20180106104256.1"><vh>說明1</vh></v>
+</v>
+<v t="leo.20180106103834.1"><vh>Onshape 教學2</vh>
+<v t="leo.20180106104257.1"><vh>說明2</vh></v>
+</v>
+</v>
+<v t="leo.20180106101718.1"><vh>W13-W15</vh>
+<v t="leo.20180106102503.1"><vh>專案執行週</vh></v>
+</v>
+<v t="leo.20180106101717.1"><vh>W16-W18</vh>
+<v t="leo.20180106102505.1"><vh>期末驗收週</vh>
+<v t="leo.20180106102649.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180106102656.1"><vh>影片一</vh>
+<v t="leo.20180106110934.1"><vh>彈珠台</vh></v>
+</v>
+<v t="leo.20180106102656.2"><vh>影片二</vh>
+<v t="leo.20180106110935.1"><vh>Solid Works</vh></v>
+</v>
+<v t="leo.20180106102650.2"><vh>影片三</vh>
+<v t="leo.20180106110936.1"><vh>V-rep</vh></v>
+</v>
+</v>
+<v t="leo.20180106101744.1"><vh>期末成果</vh>
+<v t="leo.20180106111547.1"><vh>總結</vh>
+<v t="leo.20180106111709.1"><vh>佐證</vh></v>
+</v>
+<v t="leo.20180106111548.1"><vh>Onshape</vh>
+<v t="leo.20180106112758.1"><vh>圖片</vh></v>
+</v>
+<v t="leo.20180106112652.1"><vh>Fossil SCM 倉儲</vh>
+<v t="leo.20180106112800.1"><vh>圖片和連結</vh></v>
+</v>
+<v t="leo.20180106112654.1"><vh>Fossil SCM 網誌</vh>
+<v t="leo.20180106112801.1"><vh>圖片和連結</vh></v>
+</v>
+<v t="leo.20180106112654.2"><vh>Github網誌合併</vh>
+<v t="leo.20180106112802.1"><vh>圖片和連結</vh></v>
+</v>
+<v t="leo.20180106112655.1"><vh>Github小組倉儲</vh>
+<v t="leo.20180106112803.1"><vh>圖片和連結</vh></v>
+</v>
+<v t="leo.20180106112904.1"><vh>筆記</vh>
+<v t="leo.20180106112904.2"><vh>圖片</vh></v>
+</v>
+</v>
+<v t="leo.20180106101742.1"><vh>期末評分</vh>
+<v t="leo.20180106101954.1"><vh>課程評分</vh>
+<v t="leo.20180106101954.2"><vh>如何評分</vh></v>
+</v>
+<v t="leo.20180106101850.1"><vh>自我評分</vh>
+<v t="leo.20180106101850.2"><vh>評分</vh></v>
 </v>
 </v>
 </v>
@@ -376,6 +438,281 @@ g.es("admin pelican Github 執行完畢")
 &lt;img src="./ph/W7.jpg" width="210" height="160"&gt;&lt;/img&gt;
 &lt;img src="./ph/W8.jpg" width="210" height="160"&gt;&lt;/img&gt;
 </t>
+<t tx="leo.20180106101637.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106101717.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106101718.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106101742.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106101744.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106101850.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106101850.2"># 自評分數
+
+* 80
+
+心得: 這學期都有打工,所以進度有時候跟不上,而後面有辭掉工作來惡補,這門課應該是這學期最認真的了.老師提供的教材豐富,並且希望學生培養自學能力,值得推薦其他人來修類似課程.
+
+
+</t>
+<t tx="leo.20180106101954.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106101954.2"># 課程如何評分
+
+* 出席: 20% (if 全勤: 提問與答題內容*平時表現)
+* 平時表現: 30% (隨身碟與倉儲內容 + 每堂筆記內容)
+* 驗收考試: 30% (三階段現場錄製操作與心得影片-註記時間與錄製人員學號)
+* 驗收簡報: 20% (驗收週各組簡報, 各學員簡報, 根據驗收考試與簡報內容自評與互評)
+
+</t>
+<t tx="leo.20180106102410.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180106102503.1"># W13-W15
+
+* 建立小組倉儲,設定管理者和小組分配工作,蒐集資料尋找合適的機構
+* 外觀討論初稿 分工繪圖
+* 尺寸討論</t>
+<t tx="leo.20180106102505.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106102649.1"># W16-W18
+
+* 各人期末驗-彈珠台拍攝模擬
+* 鋼球系統整體討論完結
+* 用onshape繪製以及solidwork 繪製
+* V-rep 提求機構模擬成功</t>
+<t tx="leo.20180106102650.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106102656.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106102656.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106103833.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180106103833.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180106103834.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180106104255.1"># V-rep模擬
+
+&lt;iframe src="https://www.youtube.com/embed/C7spfgMqDGU" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180106104256.1"># Onshape-1
+
+&lt;iframe src="https://www.youtube.com/embed/fNREnT8UoQI" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180106104257.1"># Onshape-2
+
+&lt;iframe src="https://www.youtube.com/embed/YCcghxJ5ae4" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180106104643.1"># W10-W12
+
+* Onshape 繪製組合 Nutcracker, 轉為 STL檔案格式, Inport 入 V-rep, 完成模擬
+* Github帳號申請、組織建立 拉組員進入
+* V-rep馬達設定學習
+* Github個人倉儲指令練習
+* Onshape 影片分配中文說明影片內容操作過程
+</t>
+<t tx="leo.20180106110934.1"># 個人期末驗收
+
+&lt;iframe src="https://www.youtube.com/embed/fh1osWCdNAQ" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180106110935.1"># 鋼球模擬 改良前
+
+&lt;iframe src="https://www.youtube.com/embed/EguzahCFtMw" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180106110936.1"># 鋼球模擬
+
+&lt;iframe src="https://www.youtube.com/embed/EdjjHGjAcok" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180106111547.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106111548.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106111709.1"># 期末總結與佐證
+
+* 分組期末報告撰寫
+* 期末網誌、影片總整理(倉儲合併)
+* 個人簡報錄製</t>
+<t tx="leo.20180106112652.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106112654.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106112654.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106112655.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106112758.1"># Onshape
+
+
+&lt;img src="./ph/gp1.jpg" width="640" height="420"&gt;&lt;/img&gt;</t>
+<t tx="leo.20180106112800.1"># Fossil SCM 倉儲
+
+* [40371215](https://cadpb.kmol.info/40371215/wcontent)
+
+
+&lt;img src="./ph/gp2.jpg" width="640" height="420"&gt;&lt;/img&gt;</t>
+<t tx="leo.20180106112801.1"># Fossil SCM 網誌
+
+* [40371215](https://cadpb.kmol.info/40371215/doc/trunk/blog/)
+
+&lt;img src="./ph/gp3.jpg" width="640" height="420"&gt;&lt;/img&gt;</t>
+<t tx="leo.20180106112802.1"># Github網誌合併
+
+* [40371215](https://40371215.github.io/40371215_finalproject/blog/index.html)
+
+&lt;img src="./ph/gp4.jpg" width="640" height="420"&gt;&lt;/img&gt;</t>
+<t tx="leo.20180106112803.1"># Github小組倉儲
+
+* [bg9](https://github.com/mcae/40371215_cadp_final)
+
+&lt;img src="./ph/gp5.jpg" width="640" height="420"&gt;&lt;/img&gt;</t>
+<t tx="leo.20180106112904.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180106112904.2"># 筆記
+
+* [Wiki](https://cadpb.kmol.info/40371215/wcontent)
+
+&lt;img src="./ph/nb1.jpg" width="210" height="160"&gt;&lt;/img&gt;
+&lt;img src="./ph/nb2.jpg" width="210" height="160"&gt;&lt;/img&gt;
+&lt;img src="./ph/nb3.jpg" width="210" height="160"&gt;&lt;/img&gt;
+
+&lt;img src="./ph/nb4.jpg" width="210" height="160"&gt;&lt;/img&gt;
+&lt;img src="./ph/nb5.jpg" width="210" height="160"&gt;&lt;/img&gt;
+&lt;img src="./ph/nb6.jpg" width="210" height="160"&gt;&lt;/img&gt;
+
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -555,6 +892,8 @@ Created by [40371215](blog/index.html)
 [期中報告](https://vimeo.com/243076834)
 
 [Github倉儲](https://github.com/mcae)
+
+[Youtube](https://www.youtube.com/channel/UCYl4emmCssv8QbY51L_psvw/featured)
 
 </t>
 <t tx="yen.20170108171733.16">&lt;section data-markdown&gt;
